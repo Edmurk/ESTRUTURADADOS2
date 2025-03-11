@@ -14,7 +14,7 @@ Este repositório contém implementações e estudos sobre Estrutura de Dados 2 
 ## Tecnologias Utilizadas
 
 - Python 3+
-- Bibliotecas auxiliares: `networkx` (para grafos), `matplotlib` (visualização), `heapq`, entre outras.
+<!-- - Bibliotecas auxiliares: `networkx` (para grafos), `matplotlib` (visualização), `heapq`, entre outras. -->
 
 ## Como Executar
 
@@ -29,13 +29,7 @@ Este repositório contém implementações e estudos sobre Estrutura de Dados 2 
    ```bash
    cd ESTRUTURADADOS2
    ```
-
-3. Instale as dependências (caso necessário):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
+   
 4. Execute os scripts de cada estrutura de dados conforme necessário.
 
 ## Contribuições
